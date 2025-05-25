@@ -14,13 +14,13 @@ entity top_tb is
     constant dept     : integer := 64;
 
     constant dataMemResult    : string(1 to 87) :=
-        "C:/Users/abdal/OneDrive/Desktop/Final Semster/Hardware Lab/Lab3/MemData/DTCMcontent.txt";
+        "C:/Users/YourName/Path/to/datamemoryResultofExcution.txt";
 
     constant dataMemLocation  : string(1 to 84) :=
-        "C:/Users/abdal/OneDrive/Desktop/Final Semster/Hardware Lab/Lab3/MemData/DTCMinit.txt";
+        "C:/Users/YourName/Path/to/datamemory.txt";
 
     constant progMemLocation  : string(1 to 84) :=
-        "C:/Users/abdal/OneDrive/Desktop/Final Semster/Hardware Lab/Lab3/MemData/ITCMinit.txt";
+        "C:/Users/YourName/Path/to/progammemory.txt";
 end top_tb;
 
 ---------------------------------------------------------

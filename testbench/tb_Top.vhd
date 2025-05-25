@@ -14,7 +14,7 @@ entity top_tb is
     constant dept     : integer := 64;
 
     constant dataMemResult    : string(1 to 87) :=
-        "C:/Users/YourName/Path/to/datamemoryResultofExcution.txt";
+        "C:/Users/YourName/Path/to/datamemoryResultofExcutionofInstructions.txt";
 
     constant dataMemLocation  : string(1 to 84) :=
         "C:/Users/YourName/Path/to/datamemory.txt";
